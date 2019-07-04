@@ -7,7 +7,7 @@
         <groupId>com.api.cloud</groupId>
         <artifactId>cloud-base</artifactId>
         <version>1.0</version>
-        <relativePath>../../cloud-base/pom.xml</relativePath>
+        <relativePath>../../cloudbase/pom.xml</relativePath>
     </parent>
 
     <artifactId>order-base</artifactId>
